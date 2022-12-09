@@ -8,3 +8,7 @@
 
 ### how to create angular application
 `ng new my-first-app`
+
+### how to generate ng Component
+`ng generate component property/property-list`
+`ng g c property/property-list`
